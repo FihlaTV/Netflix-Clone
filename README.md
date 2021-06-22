@@ -52,7 +52,7 @@ Demo: [Link](http://yuchiu-netflix.surge.sh/)
 
 ### Video Demo
 
-![demogif](https://github.com/yuchiu/netflix-clone/blob/master/netflix-clone-optimize-gif-demo.gif)
+![demogif](https://github.com/FihlaTV/netflix-clone/blob/master/netflix-clone-optimize-gif-demo.gif)
 
 ---
 
